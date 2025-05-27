@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c’est Esteban 👋</h1>
+<h1>Hello, moi c’est Esteban 👋</h1>
 
 🎓 Étudiant en 3ᵉ année à l’IMT Atlantique – Filière Ingénierie Logicielle (FIL)  
 💼 Alternant chez Kosmos – Développement web (Symfony, Twig, Vue)  
