@@ -1,18 +1,17 @@
 <h1 align="center">Salut, moi c’est Esteban 👋</h1>
 
-🎓 Étudiant en 3ᵉ année à l’IMT Atlantique – Filière Informatique (FIL)  
+🎓 Étudiant en 3ᵉ année à l’IMT Atlantique – Filière Ingénierie Logicielle (FIL)  
 💼 Alternant chez Kosmos – Développement web (Symfony, Twig, Vue)  
-🎯 Objectif : décrocher un poste à de front-end ou full-stack à dominance front-end dès septembre 2025
+🎯 Objectif : décrocher un poste à de développeur front-end ou full-stack à dominance front-end dès septembre 2025
 
 
 ## 🔧 Compétences techniques
 
+- **Langages** : TypeScript, JavaScript, PHP
 - **Frontend** : HTML/CSS, Vue.js, Nuxt, Tailwind, Tanstack Table / Query
 - **Backend** : PHP, Symfony, Node.js
 - **DevOps** : Docker, Git
 - **Outils** : Figma, Jetbrains (IntelliJ, Webstorm, PHPStorm...), VS Code, Postman
-- **Langages** : TypeScript, JavaScript, PHP
-
 
 
 ## 🌱 Projets notables
