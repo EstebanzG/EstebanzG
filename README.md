@@ -81,4 +81,4 @@ Plateforme de gestion de tâches ménagères pour élèves, utilisée par un ét
 ## 📬 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gomez-esteban/)  
-[![gomez.esteban@outlook.fr](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:gomez.esteban@outlook.fr)
+[![gomez.esteban@outlook.fr](https://img.shields.io/badge/-gomez.esteban@outlook.fr-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:gomez.esteban@outlook.fr)
