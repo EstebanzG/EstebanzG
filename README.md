@@ -4,7 +4,6 @@
 💼 Alternant chez Kosmos – Développement web (Symfony, Twig, Vue)  
 🎯 Objectif : décrocher un poste à de front-end ou full-stack à dominance front-end dès septembre 2025
 
----
 
 ## 🔧 Compétences techniques
 
@@ -14,7 +13,7 @@
 - **Outils** : Figma, Jetbrains (IntelliJ, Webstorm, PHPStorm...), VS Code, Postman
 - **Langages** : TypeScript, JavaScript, PHP
 
----
+
 
 ## 🌱 Projets notables
 
@@ -27,7 +26,7 @@ Plateforme d'entraînement à la réalisation de diagnostics médicaux (projet d
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Springboot-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+
 
 ### 🧒 Rotoy  
 Plateforme d’apprentissage de l’algorithmie aux enfants (stage au Danemark)  
@@ -37,7 +36,7 @@ Développement fullstack, majoritairement front
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
+
 
 ### ⚙️ Kosmos  
 Plateforme de gestion administrative et financière d'établissements scolaires (Alternance de 3 ans)  
@@ -51,13 +50,13 @@ Développement, résolutions de bugs, maintenance préventive
 ![TanStack Table](https://img.shields.io/badge/TanStack--Table-000000?style=for-the-badge&logo=tableau&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
+
 
 ## ✈️ Ce que je recherche
 
 🌍 Un poste de développeur front-end ou full-stack à dominance front-end, idéalement aux alentours de Nantes ou en télétravail.
 
----
+
 
 ## 📬 Me contacter
 
