@@ -9,7 +9,7 @@
 ## 🔧 Compétences techniques
 
 - **Langages** : TypeScript, JavaScript, PHP  
-- **Frontend** : HTML/CSS, Vue.js, Nuxt, Tailwind, Tanstack Table / Query  
+- **Frontend** : HTML/CSS, React, Vue.js, Tailwind, Tanstack Table / Query  
 - **Backend** : PHP, Symfony, Node.js  
 - **DevOps** : Docker, Git  
 - **Outils** : Figma, JetBrains (IntelliJ, WebStorm, PHPStorm...), VS Code, Postman
