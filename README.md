@@ -53,7 +53,7 @@ Développement, résolutions de bugs, maintenance préventive
 
 
 
-### ⚙️ Pin map  
+### 📍 Pin map  
 Site web permettant la création de pin sur une carte. Mise en place d'interactions avancées, menu déplaçable et websockets.  
 🔗 GitHub : [Pin map](https://github.com/EstebanzG/PinMap)  
 🛠️ Tech :  
@@ -62,7 +62,7 @@ Site web permettant la création de pin sur une carte. Mise en place d'interacti
 
 
 
-### ⚙️ Service Manager  
+### ⌛️ Service Manager  
 Plateforme de gestion de tâches ménagères pour élèves, utilisée par un établissement scolaire. Premier projet en React, à revoir.  
 🔗 GitHub : [Service Manager](https://github.com/EstebanzG/ServicesManager)  
 🛠️ Tech :  
@@ -81,4 +81,4 @@ Plateforme de gestion de tâches ménagères pour élèves, utilisée par un ét
 ## 📬 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gomez-esteban/)  
-[![Mail](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:gomez.esteban@outlook.fr)
+[![gomez.esteban@outlook.fr](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:gomez.esteban@outlook.fr)
