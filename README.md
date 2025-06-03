@@ -72,12 +72,6 @@ Plateforme de gestion de tâches ménagères pour élèves, utilisée par un ét
 
 
 
-## ✈️ Ce que je recherche
-
-🌍 Un poste de développeur front-end ou full-stack à dominance front-end, idéalement aux alentours de Nantes ou en télétravail.
-
-
-
 ## 📬 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gomez-esteban/)  
