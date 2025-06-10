@@ -19,7 +19,7 @@
 ## 🌱 Projets notables
 
 ### 🎒 RAIMED  
-Plateforme d'entraînement à la réalisation de diagnostics médicaux (projet d’équipe, open-source)  
+Plateforme d'entraînement à la réalisation de diagnostics médicaux (projet scolaire)
 🔗 GitHub : [RAIDMEDV2](https://github.com/RAIDMED-PROJECT-ORG/RAIDMEDV2)  
 🛠️ Tech :  
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
