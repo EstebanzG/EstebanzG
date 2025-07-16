@@ -2,7 +2,7 @@
 
 🎓 Étudiant en 3ᵉ année à l’IMT Atlantique – Filière Ingénierie Logicielle (FIL)  
 💼 Alternant chez Kosmos – Développement web (Symfony, Twig, Vue)  
-🎯 Objectif : décrocher un poste de développeur front-end ou full-stack dès septembre 2025
+🎯 Objectif : décrocher un poste de développeur full-stack dès septembre 2025
 
 ## 🔧 Compétences techniques
 
