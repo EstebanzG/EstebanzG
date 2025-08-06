@@ -2,7 +2,7 @@
 
 🎓 3rd-year student at IMT Atlantique – Software Engineering Master Degree  
 💼 Apprentice at Kosmos – Web development (Symfony, Twig, Vue)  
-🎯 Goal: land a full-stack developer position starting September 2025
+🎯 Goal: land a full-stack developer position starting Fall 2025
 
 ## 🔧 Technical Skills
 
