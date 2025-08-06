@@ -1,6 +1,6 @@
 # Hello, I'm Esteban 👋
 
-🎓 3rd-year student at IMT Atlantique – Software Engineering program  
+🎓 3rd-year student at IMT Atlantique – Software Engineering Master Degree  
 💼 Apprentice at Kosmos – Web development (Symfony, Twig, Vue)  
 🎯 Goal: land a full-stack developer position starting September 2025
 
